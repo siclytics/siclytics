@@ -1,0 +1,1 @@
+Hey! your otp code is {{$user->otp}}
